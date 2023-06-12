@@ -7,4 +7,5 @@ The frontend is built on React, Node, and CSS, whereas its backend uses Express 
 This project won second place at the ULHacks 2021 international hackathon.
 
 A demo of the project can be found here: https://youtu.be/NxEHPeWPahk
+
 The devpost from the hackathon can be found here: https://devpost.com/software/courseconnected
