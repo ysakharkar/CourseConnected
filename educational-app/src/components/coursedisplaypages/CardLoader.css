@@ -1,0 +1,13 @@
+.CardHolder {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 10px;
+  grid-auto-rows: 370px;
+  grid-template-areas:
+    "a a a a"
+    "a a a a"
+    "a a a a"
+    "a a a a";
+  align-items: start;
+  margin: 10px 10px 10px 10px;
+}

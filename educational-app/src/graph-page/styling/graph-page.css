@@ -1,0 +1,135 @@
+.react-flow {
+    height: 100vh;
+    width: 100vw;
+}
+
+.react-flow__node {
+    object-fit:contain;
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+}
+
+.unit-outer-div {
+    width: 400px;
+    opacity: 100;
+}
+
+.unit-outer-contents {
+
+}
+
+.unit-title {
+    font-size: 28px;
+}
+
+.upper-lower-bar {
+    height: 20px;
+    background-color: #447281;
+}
+
+.element {
+    display: flex;
+    border-top: 2px solid darkgrey;
+}
+
+.div-left {
+    width: 120px;
+}
+
+.image-left {
+    height: 100%;
+    width: 70px;
+    object-fit: contain;
+}
+
+.div-right {
+    width: 280px;
+}
+
+.div-right-title {
+    padding-right: 30px;
+    color: #3a6674;
+}
+
+.div-right-description {
+    padding-right: 30px;
+}
+
+.unit-button-holder {
+    padding: 10px 0 10px 0;
+}
+
+.unit-button {
+    width: 160px;
+    height: 40px;
+    background-color: rgb(104, 104, 104);
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.unit-botton:focus {
+
+}
+
+.graph-page-title {
+
+}
+
+.component-add-page {
+    position: relative;
+    width: 500px;
+    height: 600px;
+    z-index: 800;
+    background-color: grey;
+    align-items: center;
+}
+
+.graph-overlay {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-lower {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: calc(100% - 160px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-lower {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-div {
+    width: 100%;
+    height: 80px;
+}
+
+.react-flow__node {
+    opacity: 100;
+}
+
+.unit-addition-input {
+    z-index: 999;
+}
+
+.unit-addition-button {
+    z-index: 999;
+}
+
+.unit-addition-container {
+    z-index: 999;
+}

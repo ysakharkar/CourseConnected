@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.titleCourseCreate {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.titleCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.titleCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.subjectCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.subjectCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.authorCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.authorCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.descCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.descCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.imgCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.imgCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.levelCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.levelCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.dateCourseCreateFieldFillable {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.dateCourseCreateField {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.saveCourseButton {
+  border: none;
+  background-color: #5db760;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+}

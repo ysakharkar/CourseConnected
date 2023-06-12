@@ -1,0 +1,125 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.wholeRegisterPage {
+  background-color: #d1d1d1;
+  height: 1200px;
+}
+
+.title-container-register {
+  height: 90px;
+  background-color: #0b2c36;
+}
+
+.titleRegister {
+  font-family: "Open Sans", sans-serif;
+  font-size: 45px;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 8px;
+}
+
+.middleRegister {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+  width: 100%;
+  margin: 0, 0, 0, 0;
+}
+
+.leftSideRegister {
+  width: 42.5%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.rightSideRegister {
+  margin-top: 20px;
+}
+
+.emailRegister {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+}
+
+.email-enterRegister {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 30px;
+  background-color: transparent;
+}
+
+.nameRegister {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+}
+
+.name-enterRegister {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 30px;
+  background-color: transparent;
+}
+
+.passwordRegister {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+}
+
+.password-enterRegister {
+  font-family: "Open Sans", sans-serif;
+  border: none;
+  font-size: 30px;
+  background-color: transparent;
+}
+
+.email-fieldRegister {
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+.name-fieldRegister {
+  margin-left: 15px;
+}
+
+.password-fieldRegister {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.registerSubmitRegister {
+  margin-top: 45px;
+  margin-left: 15px;
+}
+
+.registerButtonRegister {
+  font-size: 30px;
+  background-color: #b24949;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  border: none;
+}
+
+.imageRegister {
+  height: 300px;
+  width: 300px;
+}
+
+.redirectToLoginRegister {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  margin-left: 15px;
+  margin-top: 40px;
+}
+
+.registerHereRedirectButton {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  color: #5db760;
+  font-weight: bold;
+}

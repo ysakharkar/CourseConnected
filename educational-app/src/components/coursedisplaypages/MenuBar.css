@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.menubar {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  flex-direction: row;
+  background-color: #0b2c36;
+}
+
+.leftSideMenuBar {
+  width: 60%;
+  display: flex;
+}
+
+.rightSideMenuBar {
+  width: 40%;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+.yourCourses {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 19px;
+  padding-left: 110px;
+  padding-top: 25px;
+}
+
+.popularCourses {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 19px;
+  padding-left: 0px;
+  margin-left: 70px;
+  padding-top: 25px;
+}
+
+.bookmarkedCourses {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 19px;
+  padding-left: 110px;
+  padding-top: 25px;
+}
+
+.search {
+  font-family: "Open Sans", sans-serif;
+  font-size: 19px;
+  height: 30px;
+  margin-top: 22px;
+  margin-bottom: 55px;
+  margin-left: 15px;
+  border-radius: 1em;
+  background-color: #08232a;
+  color: white;
+  border: none;
+}
+
+.loginMenuBar {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 19px;
+  padding-left: 57px;
+  padding-top: 25px;
+}
+
+.registerMenuBar {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 19px;
+  margin: 0;
+  padding: 0;
+  padding-left: 95px;
+  padding-top: 25px;
+}
+
+.logo {
+  height: 70px;
+  margin-top: 7px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.searchIcon {
+  height: 42px;
+  width: 42px;
+  padding-top: 17px;
+  margin-left: 175px;
+}

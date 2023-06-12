@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.welcomeToApp {
+  font-family: "Open Sans", sans-serif;
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+}
+.topPartDashboard {
+  margin-top: 10px;
+}
+
+.imageForDashboard-container {
+  margin-top: 40px;
+}
+
+.imageForDashboard {
+  padding-left: 750px;
+  height: 350px;
+  width: 350px;
+}
+
+.tutorialToNavigate {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.bottomPartDashboard {
+  margin-top: 50px;
+}

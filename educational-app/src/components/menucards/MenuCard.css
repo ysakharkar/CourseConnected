@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.fullCard {
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  width: 200px;
+  background-color: #dbebf0;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+.mainImage {
+  height: 40%;
+  width: 100%;
+}
+
+.imageMenuCard {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.bottomHalf {
+  height: 55%;
+  width: 100%;
+}
+
+.bottomTop {
+  display: flex;
+  flex-direction: row;
+  height: 55%;
+  width: 100%;
+}
+
+.leftMiddle {
+  display: flex;
+  flex-direction: column;
+  width: 22.5%;
+  height: 100%;
+}
+
+.middleMiddle {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  height: 100%;
+}
+
+.rightMiddle {
+  display: flex;
+  flex-direction: column;
+  width: 22.5%;
+  height: 100%;
+}
+
+.bottomBottom {
+  height: 40%;
+  width: 100%;
+}
+
+.upvote {
+  height: 33%;
+  width: 80%;
+  padding-top: 10px;
+}
+
+.downvote {
+  height: 33%;
+  width: 80%;
+  margin-bottom: 25%;
+}
+
+.rating {
+  height: 25%;
+  width: 100%;
+  margin-left: 33%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+}
+
+.title {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13.75px;
+  margin-top: 6px;
+  font-weight: bold;
+  color: #447281;
+  height: 30%;
+  width: 100%;
+  text-align: center;
+}
+
+.authorMenuCard {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  height: 25%;
+  width: 100%;
+  text-align: center;
+}
+
+.dateMenuCard {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  height: 22.5%;
+  width: 100%;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.level {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  height: 22.5%;
+  width: 100%;
+  text-align: center;
+}
+
+.bookmark {
+  height: 98%;
+  width: 100%;
+}
+
+.bookmarkImg {
+  height: 100%;
+  width: 100%;
+}
+
+.description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.bottomBar {
+  height: 5%;
+  width: 100%;
+  background-color: #447281;
+}
